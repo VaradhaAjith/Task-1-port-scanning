@@ -12,6 +12,6 @@ Using Nmap:
 5. Saved the result in text file called output1.txt
 6. Analyzed about the ports opened.
 
-Using Wireshark
+Using Wireshark:
 1.opened wireshark and start that eth0 to monitor the packet transfer.
 
